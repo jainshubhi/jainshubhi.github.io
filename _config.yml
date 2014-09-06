@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Shubhi Jain
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Computer Science, Caltech 2017. Hacking a better world.
+logo: chathead.png
 search: true
-url: 
+url: http://localhost:4000
 
 
 # Jekyll configuration
@@ -32,22 +32,22 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Shubhi Jain
+  avatar: chathead.jpg
+  email: jain.shubhankar@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: shubhankar_jain
+  facebook: shubhi767
+  github: jainshubhi
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: https://www.linkedin.com/pub/shubhankar-jain/54/96a/aa7
+  instagram: shubhidooo
   flickr: #username
-  tumblr: #username
+  tumblr: shubhidoo
   google:
     plus: #username
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:

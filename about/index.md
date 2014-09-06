@@ -1,26 +1,33 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About Shubhi Jain
+excerpt: "A little info about Shubhi Jain."
+modified: 2014-09-04T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: IMG_6100.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+#### Computer Science
 
-## So Simple Theme is all about:
+* Big Data – Hadoop, Spark, R, Nodes and Clusters.
+* Mobile Development – Android.
+* Web Development – MEAN Stack.
+* Functional Programming – Lisp, Haskell, Scala.
+* Other Things - Java, Python, C, C++ (Nginx), Git.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+#### Photography
 
-[^1]: Example: *domain.com/category-name/post-title*
+* Canon T3i
+* 50mm f/1.8 – Favorite Lens.
+* 55m - 250m f/4.5 - 5.6.
+* 18mm - 55mm f/3.5 - 5.6.
+* I'm hoping to get a Tamron 28mm - 75mm f/2.8.
+
+
+#### Football (The European Kind)
+* Favorite La Liga Team – Barcelona.
+* Favorite EPL Team – Arsenal.
+* Favorite Bundesliga Team – Borussia Dortmund.
+* Favorite Serie A Team – Juventus.
+* Favorite Position to Play – Center Midfield.
