@@ -4,7 +4,7 @@ title: Photography
 excerpt: "An archive of photos sorted by date."
 modified: 2014-09-04T19:44:38.564948-04:00
 image:
-  feature: IMG_3066.jpg
+  feature: IMG_3066.JPG
 ---
 
 <ul class="post-list">
