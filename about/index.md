@@ -4,7 +4,7 @@ title: About Shubhi Jain
 excerpt: "A little info about Shubhi Jain."
 modified: 2014-09-04T19:44:38.564948-04:00
 image:
-  feature: IMG_6100.jpg
+  feature: IMG_6100.JPG
 ---
 
 #### Computer Science
