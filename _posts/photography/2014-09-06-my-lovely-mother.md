@@ -1,5 +1,5 @@
 ---
-layout: photo
+layout: post
 title: "My Lovely Mother"
 modified:
 categories: "photography"
