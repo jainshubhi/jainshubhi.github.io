@@ -7,7 +7,7 @@ image:
   feature: IMG_3066.JPG
 ---
 
-<ul class="photo-list">
+<ul class="post-list">
 {% for post in site.categories.photography %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
